@@ -1,6 +1,7 @@
 # TRProtocol
 
 TalesRunner Protocol Dump. Drop `trgame.exe` or `trgame_unpacked.exe` and it writes a CSV of opcode, name, and wire size.
+<img width="560" height="400" alt="Screenshot 2026-10-15 233112" src="https://github.com/user-attachments/assets/676b2b56-a13d-4ed0-86f9-1baae692fa90" />
 
 ## trgame.exe and trgame_unpacked.exe
 
